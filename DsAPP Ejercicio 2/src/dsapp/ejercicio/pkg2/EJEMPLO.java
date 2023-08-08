@@ -6,4 +6,9 @@ public class EJEMPLO {
     
         System.out.println("Hola");
     }
+    public Chau meDespido() {
+        int d = 5;
+        Chau despido = new Chau(d);
+        return despido;
+    }
 }
