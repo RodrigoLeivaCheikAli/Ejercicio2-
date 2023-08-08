@@ -6,7 +6,7 @@
 package dsapp.ejercicio.pkg2;
 
 /**
- *
+ * cambio hecho por alfadev1
  * @author User
  */
 public class DsAPPEjercicio2 {
